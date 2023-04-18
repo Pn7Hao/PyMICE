@@ -1,5 +1,6 @@
 # PyMICE
 PyMICE is a Python package that provides a new method for missing data imputation in datasets with multiple imputations using chained equations (MICE)
+It is more efficient and resource-saving than the package of sklearn =))
 
 How to use that : 
 
